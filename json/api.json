@@ -1,0 +1,296 @@
+[
+    {
+        "Id": "1",
+        "Moviename": "lucy",
+        "Duration": "1h 29m",
+        "Rating": "TOMATOMETER - 66%  AUDIENCE SCORE- 47%",
+        "Description": "Enthusiastic and silly, Lucy powers through the movie's logic gaps with cheesy thrills plus Scarlett Johansson's charm -- and mostly succeeds at it.",
+        "MovieImage": "https://movieguide.b-cdn.net/wp-content/uploads/2014/07/lucy_ver2.jpg",
+        "Movie trailer": "https://www.youtube.com/watch?v=MVt32qoyhi0"
+    },
+    {
+        "Id": "2",
+        "Moviename": "Avtar",
+        "Duration": "3h 12m",
+        "Rating": "TOMATOMETER - 77% AUDIENCE SCORE - 92%",
+        "Description": "Avatar: The Way of Water, begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+        "Movietrailer": "https://www.youtube.com/watch?v=d9MyW72ELq0"
+    },
+    {
+        "Id": "3",
+        "Moviename": "Ps -I ",
+        "Duration": "2h 47m ",
+        "Rating": "TOMATOMETER-85% , AUDIENCE SCORE - 0  ",
+        "Description": "A warrior sets out to establish peace in a land ravaged by war. ",
+        "MovieImage": "http://cdn.shopify.com/s/files/1/1002/7150/products/POSTRERS-PREVIEW-PS-1---Character-Posters-clean-01_1024x1024.jpg?v=1664802603 ",
+        "Movietrailer": "https://www.youtube.com/watch?v=kwy1xpqMHsM "
+    },
+    {
+        "Id": "4",
+        "Moviename": " Insidious",
+        "Duration": " 1h 41m ",
+        "Rating": "TOMATOMETER-66% , AUDIENCE SCORE - 62% ",
+        "Description": "Parents (Patrick Wilson, Rose Byrne) take drastic measures when it seems their new home is haunted and their comatose son is possessed by a malevolent entity. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_.jpg ",
+        "Movietrailer": "https://www.youtube.com/watch?v=acQyrwQyCOk "
+    },
+    {
+        "Id": "5",
+        "Moviename": "CONJURING THE DEVIL ",
+        "Duration": "  1h 30m",
+        "Rating": " TOMATOMETER- 0 %, AUDIENCE SCORE - 41% ",
+        "Description": " A ruthless priest conjures the spirit of a demonic nun to punish the parishioners who want him ousted from the church.",
+        "MovieImage": " https://moviesandmania.com/wp-content/uploads/2020/08/Conjuring-the-Devil-movie-film-horror-demon-nun-2020.jpg",
+        "Movietrailer": "https://www.youtube.com/watch?v=8B9_hZ6qsew "
+    },
+    {
+        "Id": "6",
+        "Moviename": " ELVIS AND ANABELLE",
+        "Duration": " 1h 38m ",
+        "Rating": " TOMATOMETER- 0%, AUDIENCE SCORE -74 % ",
+        "Description": "Elvis and Anabelle is an American romantic drama film written and directed by Will Geiger. It stars Blake Lively,[1] Max Minghella, Joe Mantegna, Mary Steenburgen, and Keith Carradine.",
+        "MovieImage": " https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8bdca76eeee763a2779a0bfb82bab3b8bb52fff6668008e645663e5786bcd03c._RI_V_TTW_.jpg",
+        "Movietrailer": "https://www.youtube.com/watch?v=z4g5k5MYfOY "
+    },
+    {
+        "Id": "7",
+        "Moviename": " Old",
+        "Duration": " 1h 48m",
+        "Rating": " TOMATOMETER- 50%, AUDIENCE SCORE -53 % ",
+        "Description": " A tropical holiday turns into a horrific nightmare when a family visits a secluded beach that somehow causes them to age rapidly -- reducing their entire lives into a single day.",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BMjJjZGRhM2YtNTU4NC00OWMwLThhYWUtMWUxNDNhMDZlOTNmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg ",
+        "Movietrailer": "https://www.youtube.com/watch?v=A4U2pMRV9_k "
+    },
+    {
+        "Id": "8",
+        "Moviename": "Fast & Furious ",
+        "Duration": " 2h 10m",
+        "Rating": " TOMATOMETER-70 %, AUDIENCE SCORE - 84 % ",
+        "Description": "Fast & Furious is a media franchise centered on a series of action films that are largely concerned with street racing, heists, spies, and family. ",
+        "MovieImage": " https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg ",
+        "Movietrailer": "https://www.youtube.com/watch?v=FUK2kdPsBws "
+    },
+    {
+        "Id": "9",
+        "Moviename": "Forrest Gump ",
+        "Duration": "2h 22m ",
+        "Rating": " TOMATOMETER- 71%, AUDIENCE SCORE -95% ",
+        "Description": "Forrest Gump, American film, released in 1994, that chronicled 30 years (from the 1950s through the early 1980s) of the life of a intellectually disabled man (played by Tom Hanks) in an unlikely fable that earned critical praise, large audiences, and six Academy Awards, including best picture. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Movietrailer": "https://www.youtube.com/watch?v=ITGEGE9v0d0 "
+    },
+    {
+        "Id": "10",
+        "Moviename": " Alvin and the Chipmunks",
+        "Duration": " 1h 26m",
+        "Rating": " TOMATOMETER- 15%, AUDIENCE SCORE -51 % ",
+        "Description": " The group consists of three singing animated anthropomorphic chipmunks named Alvin, Simon, and Theodore who are originally managed by their human adoptive .",
+        "MovieImage": " https://m.media-amazon.com/images/M/MV5BYWMzZDhmM2EtZTM2Yy00ZmE3LTlmYzYtMzE2OTA2Yzk2YjM4XkEyXkFqcGdeQXVyODk1MzE0Mzk@._V1_.jpg",
+        "Movietrailer": " https://www.youtube.com/watch?v=xA6cOSEZhzM"
+    },
+    {
+        "Id": "11",
+        "Moviename": "Harry Potter ",
+        "Duration": "2h 41m ",
+        "Rating": " TOMATOMETER- 82%, AUDIENCE SCORE - 80% ",
+        "Description": "Harry Potter is an orphaned boy brought up by his unkind Muggle (non-magical) aunt and uncle. At the age of eleven, half-giant Rubeus Hagrid informs him that he is actually a wizard and that his parents were murdered by an evil wizard named Lord Voldemort. ",
+        "MovieImage": " https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+        "Movietrailer": "https://www.youtube.com/watch?v=VyHV0BRtdxo "
+    },
+    {
+        "Id": "12",
+        "Moviename": "The great and powerful ",
+        "Duration": "2h 10m ",
+        "Rating": " TOMATOMETER-56%, AUDIENCE SCORE -56 % ",
+        "Description": "When shady circus magician Oscar Diggs (James Franco) is hurled away from Kansas into the wonderful land of Oz, he thinks that fame and fortune are his for the taking. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BMjMyMzQ1ODM1MF5BMl5BanBnXkFtZTcwMjE2MTQxOQ@@._V1_FMjpg_UX1000_.jpg",
+        "Movietrailer": " https://www.youtube.com/watch?v=YhLaBpvS7os"
+    },
+    {
+        "Id": "13",
+        "Moviename": "Now you see me ",
+        "Duration": "1h 56m ",
+        "Rating": " TOMATOMETER- 50%, AUDIENCE SCORE -70 % ",
+        "Description": "An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money. Four magicians each answer a mysterious summons to an obscure address with secrets inside. ",
+        "MovieImage": " https://flxt.tmsimg.com/assets/p9418112_p_v8_am.jpg",
+        "Movietrailer": "https://www.youtube.com/watch?v=C2NWGAqZhF4 "
+    },
+    {
+        "Id": "14",
+        "Moviename": "Doctor strange ",
+        "Duration": "1h 55m ",
+        "Rating": " TOMATOMETER- 89%, AUDIENCE SCORE - 86% ",
+        "Description": "Doctor Strange serves as Sorcerer Supreme, the primary protector of Earth against magical and mystical threats. Strange was introduced during the Silver Age of Comic Books in an attempt to bring a different kind of character and themes of mysticism to Marvel Comics. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg ",
+        "Movietrailer": "https://www.youtube.com/watch?v=Lt-U_t2pUHI "
+    },
+    {
+        "Id": "15",
+        "Moviename": " The Dark Knight ",
+        "Duration": "2h 32m ",
+        "Rating": " TOMATOMETER-94 %, AUDIENCE SCORE -94 %",
+        "Description": "The plot follows the vigilante Batman, police lieutenant James Gordon, and district attorney Harvey Dent, who form an alliance to dismantle organized crime in Gotham City. Their efforts are derailed by the Joker, an anarchistic mastermind who seeks to test how far Batman will go to save the city from chaos. ",
+        "MovieImage": " https://resizing.flixster.com/WAHXGKleT3QvhqHUlFGIRgcQAjU=/206x305/v2/https://flxt.tmsimg.com/assets/p173378_p_v8_au.jpg",
+        "Movietrailer": "https://www.youtube.com/watch?v=LDG9bisJEaI "
+    },
+    {
+        "Id": "16",
+        "Moviename": "Avengers : Endgame ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER- 94%, AUDIENCE SCORE -90 % ",
+        "Description": "After half of all life is snapped away by Thanos, the Avengers are left scattered and divided. Now with a way to reverse the damage, the Avengers and their allies must assemble once more and learn to put differences aside in order to work together and set things right. ",
+        "MovieImage": "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810 ",
+        "Movietrailer": " https://www.youtube.com/watch?v=TcMBFSGVi1c"
+    },
+
+
+
+
+
+
+    {
+        "Id": "1",
+        "Moviename": " The last Of Us ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -97 % , AUDIENCE SCORE -96 % ",
+        "Description": "The Last of Us takes place 20 years after modern civilization has been destroyed. Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg ",
+        "ShowTrailer": "https://www.youtube.com/watch?v=pUke5mdoac0 "
+    },
+    {
+        "Id": "2",
+        "Moviename": "Wednesday ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -72 % , AUDIENCE SCORE -86 % ",
+        "Description": "While attending Nevermore Academy, Wednesday Addams attempts to master her emerging psychic ability, thwart a killing spree and solve the mystery that embroiled her parents 25 years ago. ",
+        "MovieImage": "https://upload.wikimedia.org/wikipedia/en/6/66/Wednesday_Netflix_series_poster.png ",
+        "ShowTrailer": "https://www.youtube.com/watch?v=Di310WS8zLk "
+    },
+    {
+        "Id": "3",
+        "Moviename": "Elite ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -93 % , AUDIENCE SCORE -67 % ",
+        "Description": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BYmU5N2YzYjQtM2Q4Yi00NWY4LWI5NDQtMzE4OTlhY2Q5NmJlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_.jpg",
+        "ShowTrailer": "https://www.youtube.com/watch?v=QNwhAdrdwp0 "
+    },
+    {
+        "Id": "4",
+        "Moviename": "1899 ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -76 % , AUDIENCE SCORE - 75% ",
+        "Description": "Immigrants on a steamship traveling from London to New York get caught up in a mysterious riddle after finding a second vessel adrift on the open sea. ",
+        "MovieImage": " https://m.media-amazon.com/images/M/MV5BMTU1N2I5OTgtNDE2MS00ZTdmLWJlODktNDMwMGVmNzY5NmUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "ShowTrailer": "https://www.youtube.com/watch?v=p7OUQ9U2qIw "
+    },
+    {
+        "Id": "5",
+        "Moviename": "SEE ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -63 % , AUDIENCE SCORE - 84% ",
+        "Description": "In the far future, humankind has lost its sense of sight; the father of twins who are born with the mythic ability to see must protect his tribe against a threatened queen. ",
+        "MovieImage": " https://flxt.tmsimg.com/assets/p17602423_b_v9_ac.jpg",
+        "ShowTrailer": " https://www.youtube.com/watch?v=mwXK06A2sYM"
+    },
+    {
+        "Id": "6",
+        "Moviename": "Manifest ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -78 % , AUDIENCE SCORE -71 % ",
+        "Description": "When Montego Air Flight 828 landed safely after a turbulent but routine flight, the crew and passengers were relieved. But in the span of those few hours, the world had aged five years -- and after mourning their loss, their friends, families and colleagues had given up hope and moved on. ",
+        "MovieImage": "https://flxt.tmsimg.com/assets/p17602726_b_v13_ab.jpg ",
+        "ShowTrailer": "https://www.youtube.com/watch?v=0wkMl-igRio "
+    },
+    {
+        "Id": "7",
+        "Moviename": " The Witcher : Blood origin ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -31 % , AUDIENCE SCORE -13 % ",
+        "Description": "Set more than a thousand years before the world of The Witcher seven outcasts in the elf world unite in a quest against an unstoppable power. ",
+        "MovieImage": " https://m.media-amazon.com/images/M/MV5BYTYxZjhlZjQtYTlmYi00OWM0LWI4YzgtNjAxZmJkNjM1MTQzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg ",
+        "ShowTrailer": " https://www.youtube.com/watch?v=6nhwT1vQS68 "
+    },
+    {
+        "Id": "8",
+        "Moviename": " Tomorrow ",
+        "Duration": "  3h 1m",
+        "Rating": "  TOMATOMETER - 0 , AUDIENCE SCORE - 45%",
+        "Description": "Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions. ",
+        "MovieImage": "https://www.nautiljon.com/images/more/04/26/328662.webp ",
+        "ShowTrailer": "https://www.youtube.com/watch?v=zhmxDgBxGRk "
+    },
+    {
+        "Id": "9",
+        "Moviename": " Mismatched ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER - 0 , AUDIENCE SCORE - 0 ",
+        "Description": "After being set-up by their families, two teenagers strike up a tentative friendship at their summer program. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BOTUzMTMzNTgtNmI5NS00ZTI1LTgzMjYtZTFkZWZkYTE0MWMyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg ",
+        "ShowTrailer": " https://www.youtube.com/watch?v=uYmwNNkix-k "
+    },
+    {
+        "Id": "10",
+        "Moviename": " All of us are dead ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -87 % , AUDIENCE SCORE -79 % ",
+        "Description": " Trapped students must escape their high school which has become ground zero for a zombie virus outbreak. ",
+        "MovieImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/All_of_Us_Are_Dead.jpeg/250px-All_of_Us_Are_Dead.jpeg ",
+        "ShowTrailer": " https://www.youtube.com/watch?v=IN5TD4VRcSM "
+    },
+    {
+        "Id": "11",
+        "Moviename": " House of the Dragon ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -93 % , AUDIENCE SCORE -82 % ",
+        "Description": "The reign of House Targaryen begins with this prequel to popular HBO series Game of Thrones. Based on George R.R. Martin's Fire & Blood House of the Dragon is set nearly 200 years before the events of Game of Thrones telling the story of the Targaryen civil war with King Viserys I Targaryen's children battling for control of the Iron Throne. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg ",
+        "ShowTrailer": " https://www.youtube.com/watch?v=DotnJ7tTA34"
+    },
+    {
+        "Id": "12",
+        "Moviename": "  Never have I ever ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER - 93% , AUDIENCE SCORE -86 % ",
+        "Description": " The complicated life of a first-generation Indian-American teenager. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg ",
+        "ShowTrailer": "https://www.youtube.com/watch?v=HyOCCCbxwMQ "
+    },
+    {
+        "Id": "13",
+        "Moviename": " Dark ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -95% , AUDIENCE SCORE - 94% ",
+        "Description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations. ",
+        "MovieImage": "https://flxt.tmsimg.com/assets/p14652158_b_v13_az.jpg",
+        "ShowTrailer": "  https://www.youtube.com/watch?v=ESEUoa-mz2c"
+    },
+    {
+        "Id": "14",
+        "Moviename": "  Nightbook ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -87 % , AUDIENCE SCORE -60 % ",
+        "Description": "Winslow Fegley as Alex, a young boy with a penchant for scary stories who plots to escape the clutches of an evil witch. Lidya Jewett as Yasmin, a girl who was trapped and lured in by a witch years ago and is forced to be her housemaid until Alex enters her life. ",
+        "MovieImage": " https://upload.wikimedia.org/wikipedia/en/8/8e/Nightbooks_film_poster.jpg",
+        "ShowTrailer": "https://www.youtube.com/watch?v=aQO16k5Vdow "
+    },
+    {
+        "Id": "15",
+        "Moviename": " FlashForward",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER - 80% , AUDIENCE SCORE - 78% ",
+        "Description": " A flashforward (also spelled flash-forward, and more formally known as prolepsis) is a scene that temporarily takes the narrative forward in time from the current point of the story in literature, film, television and other media.",
+        "MovieImage": "https://flxt.tmsimg.com/assets/p7894275_b_v13_aa.jpg ",
+        "ShowTrailer": "https://www.youtube.com/watch?v=jIzFJuPHKa4 "
+    },
+    {
+        "Id": "16",
+        "Moviename": " She Hulk ",
+        "Duration": "  3h 1m",
+        "Rating": " TOMATOMETER -80 % , AUDIENCE SCORE -33 % ",
+        "Description": "Jennifer Walters has a complicated life as a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk. ",
+        "MovieImage": "https://m.media-amazon.com/images/M/MV5BMjU4MTkxNzktNzUyYy00NDM2LWE5NGQtNjJlN2Q0N2MxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg ",
+        "ShowTrailer": "https://www.youtube.com/watch?v=gim2kprjL50 "
+    }
+]

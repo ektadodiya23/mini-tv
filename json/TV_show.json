@@ -1,0 +1,160 @@
+[
+    {
+        "Id" : "1",
+        "TVSHOW" : " The last Of Us ",
+         "Rating" : " TOMATOMETER -97 % , AUDIENCE SCORE -96 % ",
+        "Description" : "The Last of Us takes place 20 years after modern civilization has been destroyed. Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. ",
+        "ShowImage" : "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg ",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=pUke5mdoac0 "
+    } ,
+
+    
+    {
+        "Id" : "2",
+        "TVSHOW" : "Wednesday ",
+        "Rating" : " TOMATOMETER -72 % , AUDIENCE SCORE -86 % ",
+        "Description" : "While attending Nevermore Academy, Wednesday Addams attempts to master her emerging psychic ability, thwart a killing spree and solve the mystery that embroiled her parents 25 years ago. ",
+        "ShowImage" : "https://upload.wikimedia.org/wikipedia/en/6/66/Wednesday_Netflix_series_poster.png ",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=Di310WS8zLk "
+    } ,
+
+    
+    {
+        "Id" : "3",
+        "TVSHOW" : "Elite ",
+        "Rating" : " TOMATOMETER -93 % , AUDIENCE SCORE -67 % ",
+        "Description" : "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder. ",
+        "ShowImage" : " https://m.media-amazon.com/images/M/MV5BYmU5N2YzYjQtM2Q4Yi00NWY4LWI5NDQtMzE4OTlhY2Q5NmJlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_.jpg",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=QNwhAdrdwp0 "
+    } ,
+
+    
+    {
+        "Id" : "4",
+        "TVSHOW" : "1899 ",
+        "Rating" : " TOMATOMETER -76 % , AUDIENCE SCORE - 75% ",
+        "Description" : "Immigrants on a steamship traveling from London to New York get caught up in a mysterious riddle after finding a second vessel adrift on the open sea. ",
+        "ShowImage" : "https://m.media-amazon.com/images/M/MV5BMTU1N2I5OTgtNDE2MS00ZTdmLWJlODktNDMwMGVmNzY5NmUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg ",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=p7OUQ9U2qIw "
+    } ,
+
+    
+    {
+        "Id" : "5",
+        "TVSHOW" : "SEE ",
+        "Rating" : " TOMATOMETER -63 % , AUDIENCE SCORE - 84% ",
+        "Description" : "In the far future, humankind has lost its sense of sight; the father of twins who are born with the mythic ability to see must protect his tribe against a threatened queen. ",
+        "ShowImage" : "https://flxt.tmsimg.com/assets/p17602423_b_v9_ac.jpg ",
+        "ShowTrailer" : " https://www.youtube.com/watch?v=mwXK06A2sYM"
+    } ,
+
+    
+    {
+        "Id" : "6",
+        "TVSHOW" : "Manifest ",
+        "Rating" : " TOMATOMETER -78 % , AUDIENCE SCORE -71 % ",
+        "Description" : "When Montego Air Flight 828 landed safely after a turbulent but routine flight, the crew and passengers were relieved. But in the span of those few hours, the world had aged five years -- and after mourning their loss, their friends, families and colleagues had given up hope and moved on. ",
+        "ShowImage" : "https://flxt.tmsimg.com/assets/p17602726_b_v13_ab.jpg ",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=0wkMl-igRio "
+    } ,
+
+    
+    {
+        "Id" : "7",
+        "TVSHOW" : " The Witcher : Blood origin ",
+        "Rating" : " TOMATOMETER -31 % , AUDIENCE SCORE -13 % ",
+        "Description" : "Set more than a thousand years before the world of The Witcher seven outcasts in the elf world unite in a quest against an unstoppable power. ",
+        "ShowImage" : " https://m.media-amazon.com/images/M/MV5BYTYxZjhlZjQtYTlmYi00OWM0LWI4YzgtNjAxZmJkNjM1MTQzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg ",
+        "ShowTrailer" : " https://www.youtube.com/watch?v=6nhwT1vQS68 "
+    } ,
+
+    
+    {
+        "Id" : "8",
+        "TVSHOW" : " Tomorrow ",
+        "Rating" : "  TOMATOMETER - 0 , AUDIENCE SCORE - 45%",
+        "Description" : "Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions. ",
+        "ShowImage" : "https://www.nautiljon.com/images/more/04/26/328662.webp ",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=zhmxDgBxGRk "
+    } ,
+
+    
+    {
+        "Id" : "9",
+        "TVSHOW" : " Mismatched ",
+        "Rating" : " TOMATOMETER - 0 , AUDIENCE SCORE - 0 ",
+        "Description" : "After being set-up by their families, two teenagers strike up a tentative friendship at their summer program. ",
+        "ShowImage" : "https://m.media-amazon.com/images/M/MV5BOTUzMTMzNTgtNmI5NS00ZTI1LTgzMjYtZTFkZWZkYTE0MWMyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg ",
+        "ShowTrailer" : " https://www.youtube.com/watch?v=uYmwNNkix-k "
+    } ,
+
+    
+    {
+        "Id" : "10",
+        "TVSHOW" : " All of us are dead ",
+       "Rating" : " TOMATOMETER -87 % , AUDIENCE SCORE -79 % ",
+        "Description" : " Trapped students must escape their high school which has become ground zero for a zombie virus outbreak. ",
+        "ShowImage" : " https://upload.wikimedia.org/wikipedia/en/thumb/2/24/All_of_Us_Are_Dead.jpeg/250px-All_of_Us_Are_Dead.jpeg",
+        "ShowTrailer" : " https://www.youtube.com/watch?v=IN5TD4VRcSM "
+    } ,
+
+    
+    {
+        "Id" : "11",
+        "TVSHOW" : " House of the Dragon ",
+        "Rating" : " TOMATOMETER -93 % , AUDIENCE SCORE -82 % ",
+        "Description" : "The reign of House Targaryen begins with this prequel to popular HBO series Game of Thrones. Based on George R.R. Martin's Fire & Blood House of the Dragon is set nearly 200 years before the events of Game of Thrones telling the story of the Targaryen civil war with King Viserys I Targaryen's children battling for control of the Iron Throne. ",
+        "ShowImage" : "https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg ",
+        "ShowTrailer" : " https://www.youtube.com/watch?v=DotnJ7tTA34"
+    } ,
+
+    
+    {
+        "Id" : "12",
+        "TVSHOW" : "  Never have I ever ",
+        "Rating" : " TOMATOMETER - 93% , AUDIENCE SCORE -86 % ",
+        "Description" : " The complicated life of a first-generation Indian-American teenager. ",
+        "ShowImage" : "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg ",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=HyOCCCbxwMQ "
+    } ,
+
+    
+    {
+        "Id" : "13",
+        "TVSHOW" : " Dark ",
+        "Rating" : " TOMATOMETER -95% , AUDIENCE SCORE - 94% ",
+        "Description" : "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations. ",
+        "ShowImage" : "https://flxt.tmsimg.com/assets/p14652158_b_v13_az.jpg ",
+        "ShowTrailer" : "  https://www.youtube.com/watch?v=ESEUoa-mz2c"
+    } ,
+
+    
+    {
+        "Id" : "14",
+        "TVSHOW" : "  Nightbook " ,
+        "Rating" : " TOMATOMETER -87 % , AUDIENCE SCORE -60 % ",
+        "Description" : "Winslow Fegley as Alex, a young boy with a penchant for scary stories who plots to escape the clutches of an evil witch. Lidya Jewett as Yasmin, a girl who was trapped and lured in by a witch years ago and is forced to be her housemaid until Alex enters her life. ",
+        "ShowImage" : " https://upload.wikimedia.org/wikipedia/en/8/8e/Nightbooks_film_poster.jpg",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=aQO16k5Vdow "
+    } ,
+
+    
+    {
+        "Id" : "15",
+        "TVSHOW" : " FlashForward",
+         "Rating" : " TOMATOMETER - 80% , AUDIENCE SCORE - 78% ",
+        "Description" : " A flashforward (also spelled flash-forward, and more formally known as prolepsis) is a scene that temporarily takes the narrative forward in time from the current point of the story in literature, film, television and other media.",
+        "ShowImage" : " https://flxt.tmsimg.com/assets/p7894275_b_v13_aa.jpg",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=jIzFJuPHKa4 "
+    } ,
+
+    
+    {
+        "Id" : "16",
+        "TVSHOW" : " She Hulk ",
+         "Rating" : " TOMATOMETER -80 % , AUDIENCE SCORE -33 % ",
+        "Description" : "Jennifer Walters has a complicated life as a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk. ",
+        "ShowImage" : "https://m.media-amazon.com/images/M/MV5BMjU4MTkxNzktNzUyYy00NDM2LWE5NGQtNjJlN2Q0N2MxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg ",
+        "ShowTrailer" : "https://www.youtube.com/watch?v=gim2kprjL50 "
+    } 
+]

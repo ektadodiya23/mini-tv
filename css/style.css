@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+nav.navbar {
+    background-color: #b11c1c;
+}
+.section-about {
+    background-color: black;
+  
+}
+
+img {
+    height: 440px;
+    object-fit: cover;
+}
+.search-part {
+    background-color: #ae2020;
+    border: none;
+}
+.search-part::placeholder{
+    color: rgb(17, 15, 15);
+}
+.search-part {
+   border-bottom: 2px solid black;
+}
+/* calander-page */
+
+.Calander{
+        padding: 120px 30px;
+}
+
+.cal-img{
+    height: 100%;
+    width: 100%;
+}
+
+/* model-box */
+
+
+
